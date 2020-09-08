@@ -1,34 +1,24 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: HIN ANDTV FHD
-http://link.comstar.tv:7899/92047685/5738901/54089
 #EXTINF:0 tvg-id="MoviesNowHD.in" group-title="Channels",IN: MOVIES NOW HD
 http://link.comstar.tv:7899/92047685/5738901/54065
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: SONY SAB HD
 http://link.comstar.tv:7899/92047685/5738901/54062
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: AND TV HD
-http://link.comstar.tv:7899/92047685/5738901/54061
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: AND PICTURES HD
 http://link.comstar.tv:7899/92047685/5738901/54060
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Ten Sports HD
+http://link.comstar.tv:7899/92047685/5738901/307
+#EXTINF:0 tvg-id="TenHD.in" group-title="Channels",IN: SONY TEN 1 HD
+http://link.comstar.tv:7899/92047685/5738901/54055
+#EXTINF:0 tvg-id="TenAction.in" group-title="Channels",IN: SONY TEN 2 HD
+http://link.comstar.tv:7899/92047685/5738901/54032
 #EXTINF:0 tvg-id="TenCricket.in" group-title="Channels",IN: SONY TEN 3 HD
 http://link.comstar.tv:7899/92047685/5738901/54059
-#EXTINF:0 tvg-id="RomedyNow.in" group-title="Channels",IN: ROMEDY NOW HD
-http://link.comstar.tv:7899/92047685/5738901/54058
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="Channels",IN: SONY PIX HD
 http://link.comstar.tv:7899/92047685/5738901/54057
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="Channels",IN: SONY SIX HD
 http://link.comstar.tv:7899/92047685/5738901/54056
-#EXTINF:0 tvg-id="TenHD.in" group-title="Channels",IN: SONY TEN 1 HD
-http://link.comstar.tv:7899/92047685/5738901/54055
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: SONY SETMAX HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: SONY SET MAX HD
 http://link.comstar.tv:7899/92047685/5738901/54054
-#EXTINF:0 tvg-id="StarPlusHD.in" group-title="Channels",IN: STAR PLUS HD
-http://link.comstar.tv:7899/92047685/5738901/54052
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: ANIMAL PLANET WORLD HD ENG-1
-http://link.comstar.tv:7899/92047685/5738901/54051
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: TLC WORLD HD ENG
-http://link.comstar.tv:7899/92047685/5738901/54049
-#EXTINF:0 tvg-id="ZeeCafe.in" group-title="Channels",IN: ZEE CAFE HD
-http://link.comstar.tv:7899/92047685/5738901/54048
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels",IN: ZEE CINEMA HD
 http://link.comstar.tv:7899/92047685/5738901/54047
 #EXTINF:0 tvg-id="StarWorld.in" group-title="Channels",IN: STAR WORLD HD+
@@ -41,8 +31,6 @@ http://link.comstar.tv:7899/92047685/5738901/54044
 http://link.comstar.tv:7899/92047685/5738901/54043
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: ANIMAL PLANET WORLD HD HINDI
 http://link.comstar.tv:7899/92047685/5738901/54040
-#EXTINF:0 tvg-id="TenAction.in" group-title="Channels",IN: SONY TEN 2 HD
-http://link.comstar.tv:7899/92047685/5738901/54032
 #EXTINF:0 tvg-id="StarGold.in" group-title="Channels",IN: STAR GOLD HD+
 http://link.comstar.tv:7899/92047685/5738901/54031
 #EXTINF:0 tvg-id="StarPlus.in" group-title="Channels",IN: STAR PLUS HD+
@@ -53,88 +41,54 @@ http://link.comstar.tv:7899/92047685/5738901/54027
 http://link.comstar.tv:7899/92047685/5738901/54026
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: UTV HD+
 http://link.comstar.tv:7899/92047685/5738901/54024
-#EXTINF:0 tvg-id="HistoryTv18.in" group-title="Channels",IN: HISTORY TV18 HD
-http://link.comstar.tv:7899/92047685/5738901/54009
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: AAJ TAK HD
-http://link.comstar.tv:7899/92047685/5738901/54008
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: STAR PRAVAH HD
-http://link.comstar.tv:7899/92047685/5738901/54000
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Channels",IN: STAR GOLD HD
-http://link.comstar.tv:7899/92047685/5738901/53999
 #EXTINF:0 tvg-id="ZeeTalkies.in" group-title="Channels",IN: ZEE TALKIES HD
 http://link.comstar.tv:7899/92047685/5738901/53997
-#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Channels",IN: STAR SPORTS 1 HD
-http://link.comstar.tv:7899/92047685/5738901/53996
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: STAR SPORTS 1 HINDI HD
 http://link.comstar.tv:7899/92047685/5738901/53994
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: CARTOON NETWORK HD
-http://link.comstar.tv:7899/92047685/5738901/53993
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Channels",IN: STAR SPORTS 1 HD
+http://link.comstar.tv:7899/92047685/5738901/3250
 #EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Channels",IN: STAR SPORTS 2 HD
 http://link.comstar.tv:7899/92047685/5738901/53992
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: STAR SPORTS 3 HD
+http://link.comstar.tv:7899/92047685/5738901/3248
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: COLORS MARATHI HD
 http://link.comstar.tv:7899/92047685/5738901/53991
 #EXTINF:0 tvg-id="SonySAB.in" group-title="Channels",IN: SONY SAB
 http://link.comstar.tv:7899/92047685/5738901/325
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: &TV HD
 http://link.comstar.tv:7899/92047685/5738901/321
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: STAR SPORTS 3 HD
-http://link.comstar.tv:7899/92047685/5738901/3248
-#EXTINF:0 tvg-id="TenAction.in" group-title="Channels",IN: TEN ACTION
-http://link.comstar.tv:7899/92047685/5738901/309
-#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Channels",IN: STAR SPORTS 1 HD
-http://link.comstar.tv:7899/92047685/5738901/3250
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: MUSIC INDIA HD
 http://link.comstar.tv:7899/92047685/5738901/316
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN : FOOD FOOD TV
-http://link.comstar.tv:7899/92047685/5738901/2387
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: AASTHA
-http://link.comstar.tv:7899/92047685/5738901/320
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN : B4U Movies
 http://link.comstar.tv:7899/92047685/5738901/2391
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN : B4U Plus
 http://link.comstar.tv:7899/92047685/5738901/2392
-#EXTINF:0 tvg-id="News24.in" group-title="Channels",IN: NEWS 24
-http://link.comstar.tv:7899/92047685/5738901/1071
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Zee Taas24
+http://link.comstar.tv:7899/92047685/5738901/878
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN | Zee Talkies
 http://link.comstar.tv:7899/92047685/5738901/76
 #EXTINF:0 tvg-id="ZeeMarathi.in" group-title="Channels",IN: Zee Marathi
 http://link.comstar.tv:7899/92047685/5738901/75
-#EXTINF:0 tvg-id="StarPlus.in" group-title="Channels",IN: Star Plus
-http://link.comstar.tv:7899/92047685/5738901/52
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: STAR PRAVAH HD
+http://link.comstar.tv:7899/92047685/5738901/7697
 #EXTINF:0 tvg-id="StarGold.in" group-title="Channels",IN: Star Gold
 http://link.comstar.tv:7899/92047685/5738901/53
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN | Sony Six SD
-http://link.comstar.tv:7899/92047685/5738901/1
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Ten Sports HD
-http://link.comstar.tv:7899/92047685/5738901/307
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: WILLOW CRICKET HD
-http://link.comstar.tv:7899/92047685/5738901/4403
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: MovieOK
 http://link.comstar.tv:7899/92047685/5738901/303
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Color HD
 http://link.comstar.tv:7899/92047685/5738901/119
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Zee HD
 http://link.comstar.tv:7899/92047685/5738901/869
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: CARTOON NETWORK HINDI
-http://link.comstar.tv:7899/92047685/5738901/1072
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: India Today
-http://link.comstar.tv:7899/92047685/5738901/1074
 #EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Channels",IN: STAR SPORTS 2 HD
 http://link.comstar.tv:7899/92047685/5738901/3249
+#EXTINF:0 tvg-id="ext" group-title="Channels",IN: CARTOON NETWORK HINDI
+http://link.comstar.tv:7899/92047685/5738901/1072
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Nickelodeon Jr Hindi
 http://link.comstar.tv:7899/92047685/5738901/1069
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: SONY MAX2
 http://link.comstar.tv:7899/92047685/5738901/883
-#EXTINF:0 tvg-id="SonyMix.in" group-title="Channels",IN: SONY MIX
-http://link.comstar.tv:7899/92047685/5738901/882
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Nickelodeon Hindi
 http://link.comstar.tv:7899/92047685/5738901/1070
-#EXTINF:0 tvg-id="StarPlus.in" group-title="Channels",IN: Star Plus
-http://link.comstar.tv:7899/92047685/5738901/1062
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Star Sports1-SD
-http://link.comstar.tv:7899/92047685/5738901/301
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Star Sports2-SD
-http://link.comstar.tv:7899/92047685/5738901/300
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: TEN 1 HD
 http://link.comstar.tv:7899/92047685/5738901/887
 #EXTINF:0 tvg-id="Bindass.in" group-title="Channels",IN: UTV Bindass
@@ -147,8 +101,6 @@ http://link.comstar.tv:7899/92047685/5738901/1057
 http://link.comstar.tv:7899/92047685/5738901/1056
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels",IN: ZEE Cinema
 http://link.comstar.tv:7899/92047685/5738901/1055
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: Zee Taas24
-http://link.comstar.tv:7899/92047685/5738901/878
 #EXTINF:0 tvg-id="ZeeAction.in" group-title="Channels",IN: Zee Action
 http://link.comstar.tv:7899/92047685/5738901/880
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Zee Anmol
@@ -157,28 +109,6 @@ http://link.comstar.tv:7899/92047685/5738901/879
 http://link.comstar.tv:7899/92047685/5738901/881
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: ZEE TV ME
 http://link.comstar.tv:7899/92047685/5738901/1053
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP SONY HD
-http://link.comstar.tv:7899/92047685/5738901/5634
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: VIP SONY MAX HD
-http://link.comstar.tv:7899/92047685/5738901/5636
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: VIP Sony six HD
-http://link.comstar.tv:7899/92047685/5738901/5630
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP STAR GOLD HD
-http://link.comstar.tv:7899/92047685/5738901/5637
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP Star movies
-http://link.comstar.tv:7899/92047685/5738901/5641
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP STAR MOVIES HD
-http://link.comstar.tv:7899/92047685/5738901/5640
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP STAR PLUS HD
-http://link.comstar.tv:7899/92047685/5738901/5631
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: VIP Star sports HD1
-http://link.comstar.tv:7899/92047685/5738901/5625
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP Star sports HD 2
-http://link.comstar.tv:7899/92047685/5738901/5626
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP Star sports HD3
-http://link.comstar.tv:7899/92047685/5738901/5627
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP Star sports HD4
-http://link.comstar.tv:7899/92047685/5738901/5628
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Zing TV
 http://link.comstar.tv:7899/92047685/5738901/1050
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN:VIP Zee Cinema HD
@@ -195,16 +125,12 @@ http://link.comstar.tv:7899/92047685/5738901/8049
 http://link.comstar.tv:7899/92047685/5738901/7694
 #EXTINF:0 tvg-id="NickJunior.in" group-title="Channels",IN: NICK JR
 http://link.comstar.tv:7899/92047685/5738901/5874
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: PBN Music Punjabi
-http://link.comstar.tv:7899/92047685/5738901/5709
 #EXTINF:0 tvg-id="POGO.in" group-title="Channels",IN: Pogo
 http://link.comstar.tv:7899/92047685/5738901/8047
 #EXTINF:0 tvg-id="Sonic.in" group-title="Channels",IN: Sonic Nickelodeon
 http://link.comstar.tv:7899/92047685/5738901/8046
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="Channels",IN: sony pix HD
 http://link.comstar.tv:7899/92047685/5738901/7703
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: STAR PRAVAH HD
-http://link.comstar.tv:7899/92047685/5738901/7697
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: Ten 3
 http://link.comstar.tv:7899/92047685/5738901/8765
 #EXTINF:0 tvg-id="TenCricket.in" group-title="Channels",IN: Ten Cricket*
@@ -219,28 +145,6 @@ http://link.comstar.tv:7899/92047685/5738901/8762
 http://link.comstar.tv:7899/92047685/5738901/5699
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: VIP Star Movies select HD
 http://link.comstar.tv:7899/92047685/5738901/5698
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: & PICTURE HD
-http://link.comstar.tv:7899/92047685/5738901/6205
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: &tv HD india
-http://link.comstar.tv:7899/92047685/5738901/6215
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: Hindi:NEWS X HD
-http://link.comstar.tv:7899/92047685/5738901/6208
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: Hindi:ZEE BOLLYWOOD HD
-http://link.comstar.tv:7899/92047685/5738901/6206
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: M TUNES HD
-http://link.comstar.tv:7899/92047685/5738901/6207
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: Star Sports Select HD1
-http://link.comstar.tv:7899/92047685/5738901/8766
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: Star Sports Select HD2
-http://link.comstar.tv:7899/92047685/5738901/8767
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: TEN 1 HD
-http://link.comstar.tv:7899/92047685/5738901/6216
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: Ten Golf HD
-http://link.comstar.tv:7899/92047685/5738901/8764
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: Ten1 HD
-http://link.comstar.tv:7899/92047685/5738901/8763
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP IN: TentKotta HD
-http://link.comstar.tv:7899/92047685/5738901/6211
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: CHANNEL I
 http://link.comstar.tv:7899/92047685/5738901/8975
 #EXTINF:0 tvg-id="GeminiTv.in" group-title="Channels",IN: GEMINI TV
@@ -315,8 +219,6 @@ http://link.comstar.tv:7899/92047685/5738901/17099
 http://link.comstar.tv:7899/92047685/5738901/17080
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: DISCOVERY WORLD HD
 http://link.comstar.tv:7899/92047685/5738901/29553
-#EXTINF:0 tvg-id="ext" group-title="Channels",IN: DSPORTS HD
-http://link.comstar.tv:7899/92047685/5738901/29552
 #EXTINF:0 tvg-id="Etv.in" group-title="Channels",IN: ETV HD
 http://link.comstar.tv:7899/92047685/5738901/28968
 #EXTINF:0 tvg-id="ext" group-title="Channels",IN: GEMINI COMEDY
