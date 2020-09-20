@@ -1,19 +1,37 @@
-group,Channels
-ext,|IN|: sony sab hd,http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony max sd,http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony max hd,http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony pix hd,http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony ent,http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony pal,http://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony marathi,https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony wah,https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony yeh sd,https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: sony athh,http://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-ext,|IN|: &tv hd,http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-ext,|IN|: &Pictures hd,https://z5amshls.akamaized.net/andpicshd/tracks-v4a1/mono.m3u8
-ext,|IN|: zee cinema hd,https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
-ext,|IN|: zee talkies hd,https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
-ext,|IN|: zee marathi sd,http://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
-ext,|IN|: star sports 1,http://t100v.com/play.php?token=RED_IwsRUlbHOu5TuaVjPOsfsg==,1599173030.0316535914&id=48103
-ext,|IN|: STAR SPORT 2, http://t100v.com/play.php?token=RED_JHL-RsRwkP7dkh2P_Hd2fQ==,1599173108.0316535914&id=48106
-ext,|IN|: SONY TEN, http://t100v.com/play.php?token=RED_SObwgs4DfxY47ijfnTj0fw==,1599173286.0316535914&id=48162
+#EXTM3U
+#EXTINF:-1 tvg-name="Sab HD" tvg-logo="",Sab HD
+ http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Max SD" tvg-logo="",Sony Max SD
+ http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
+ http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="",Sony PIX HD
+ http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Set HD" tvg-logo="",Set HD
+ http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Pal SD" tvg-logo="",Sony Pal SD
+ http://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
+ https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="",Sony Wah
+ https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Yay SD" tvg-logo="",Sony Yay SD
+ https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Sony Aath SD" tvg-logo="",Sony Aath SD
+ http://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
+ http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
+ https://z5amshls.akamaized.net/andpicshd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
+ https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
+ https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="",Zee Marathi
+ http://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
+#EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="",Star Sports 2 HD
+ http://t100v.com/play.php?token=RED_IwsRUlbHOu5TuaVjPOsfsg==,1599173030.0316535914&id=48103
+#EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="",Star Sports 1 HD
+ http://t100v.com/play.php?token=RED_JHL-RsRwkP7dkh2P_Hd2fQ==,1599173108.0316535914&id=48106
+#EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",Sony Ten 3 HD
+ http://t100v.com/play.php?token=RED_SObwgs4DfxY47ijfnTj0fw==,1599173286.0316535914&id=48162
