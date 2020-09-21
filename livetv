@@ -41,3 +41,5 @@ https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_4_av-p.m3u8
 #EXTINF:-1 tvg-name="SAAM TV" tvg-logo="",SAAM TV
 https://live.wmncdn.net/saam/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Star Sports" tvg-logo="",Star Sports
+http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
