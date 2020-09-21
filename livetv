@@ -35,5 +35,9 @@
  http://t100v.com/play.php?token=RED_JHL-RsRwkP7dkh2P_Hd2fQ==,1599173108.0316535914&id=48106
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",Sony Ten 3 HD
  http://t100v.com/play.php?token=RED_SObwgs4DfxY47ijfnTj0fw==,1599173286.0316535914&id=48162
- #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="",Animal Planet
-https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+ #EXTINF:-1 tvg-name="ABP Majha" tvg-logo="",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
+ #EXTINF:-1 tvg-name="IBM Lokmat" tvg-logo="",IBM Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_4_av-p.m3u8
+#EXTINF:-1 tvg-name="SAAM TV" tvg-logo="",SAAM TV
+https://live.wmncdn.net/saam/live.stream/chunks.m3u8
