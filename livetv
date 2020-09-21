@@ -32,9 +32,9 @@
 #EXTINF:-1 tvg-name="Star Sports 2 HD" tvg-logo="",Star Sports 2 HD
  http://t100v.com/play.php?token=RED_IwsRUlbHOu5TuaVjPOsfsg==,1599173030.0316535914&id=48103
 #EXTINF:-1 tvg-name="Star Sports 1 HD" tvg-logo="",Star Sports 1 HD
- http://t100v.com/play.php?token=RED_JHL-RsRwkP7dkh2P_Hd2fQ==,1599173108.0316535914&id=48106
+ http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",Sony Ten 3 HD
- http://t100v.com/play.php?token=RED_SObwgs4DfxY47ijfnTj0fw==,1599173286.0316535914&id=48162
+ http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
  #EXTINF:-1 tvg-name="ABP Majha" tvg-logo="",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531-b/abpmajha/masterhls_1564.m3u8
  #EXTINF:-1 tvg-name="IBM Lokmat" tvg-logo="",IBM Lokmat
