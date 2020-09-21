@@ -43,3 +43,5 @@ https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="",Star Gold HD
 http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
+#EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
