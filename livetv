@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-name="Sab HD" tvg-logo="",Sab HD
  http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Max SD" tvg-logo="",Sony Max SD
- http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+ https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1601206691~acl=%2f*~data=hdntl~hmac=f1457b22b0515b9edef391e74feff7e297ab1889cacba929c196434dd4324f7f/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
- http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1601206691~acl=%2f*~data=hdntl~hmac=f1457b22b0515b9edef391e74feff7e297ab1889cacba929c196434dd4324f7f/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="",Sony PIX HD
  http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="Set HD" tvg-logo="",Set HD
