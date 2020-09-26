@@ -28,7 +28,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=16012
 #EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
  https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="",Zee Marathi
- http://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
+ https://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
 #EXTINF:-1 tvg-name="Star Sports" tvg-logo="",Star Sports 1 HD
  http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 #EXTINF:-1 tvg-name="Sony Ten" tvg-logo="",Sony Ten 3
