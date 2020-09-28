@@ -5,24 +5,14 @@
  https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1601206691~acl=%2f*~data=hdntl~hmac=f1457b22b0515b9edef391e74feff7e297ab1889cacba929c196434dd4324f7f/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1601206691~acl=%2f*~data=hdntl~hmac=f1457b22b0515b9edef391e74feff7e297ab1889cacba929c196434dd4324f7f/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony PIX HD" tvg-logo="",Sony PIX HD
- http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-#EXTINF:-1 tvg-name="Set HD" tvg-logo="",Set HD
- http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony Pal SD" tvg-logo="",Sony Pal SD
- http://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
  https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony Wah" tvg-logo="",Sony Wah
- https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Yay SD" tvg-logo="",Sony Yay SD
  https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony Aath SD" tvg-logo="",Sony Aath SD
- http://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
  http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
- https://z5amshls.akamaized.net/andpicshd/tracks-v4a1/mono.m3u8
+ https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
  https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
@@ -47,15 +37,6 @@ http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
 https://rebrand.ly/SGHDTV
 #EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY SET HD
-https://bit.ly/3fKTNU8seTHd
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY SAB HD
-https://bit.ly/3fBsABhd
-#EXTINF:-1 tvg-name="" tvg-logo="", SONY PAL
-https://bit.ly/30a3wsONyPal
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY MARATHI
-https://bit.ly/32JsoNYMaraTHi
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
 https://bit.ly/32bsOnymAXhd
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX 2
@@ -66,8 +47,6 @@ https://bit.ly/2B9tEN1hd
 https://bit.ly/2DOtEN2hd
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 3 HD
 https://bit.ly/2OwtEn3hd
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 1
-https://bit.ly/2ZtEn1Sd
 #EXTINF:-1 tvg-name="" tvg-logo="",Star Sport 1 Hindi
 https://rebrand.ly/SS1HTV
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
