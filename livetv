@@ -53,3 +53,7 @@ https://rebrand.ly/SS1HTV
 https://rebrand.ly/UTVATV
 #EXTINF:-1 tvg-name="" tvg-logo="",IPL 2020
 https://rebrand.ly/IPLTV
+#EXTINF:-1 tvg-name="" tvg-logo="",WILLOW HD
+http://localdblagent.club:8080/Carlos1/Carlos1/2605
+#EXTINF:-1 tvg-name="" tvg-logo="",WWE
+http://localdblagent.club:8080/Carlos1/Carlos1/2606
