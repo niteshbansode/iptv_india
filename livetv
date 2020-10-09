@@ -52,7 +52,7 @@ https://rebrand.ly/SS1HTV
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
 #EXTINF:-1 tvg-name="" tvg-logo="",IPL 2020
-http://13.235.252.33:7002/live/streamindia.m3u8
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",WILLOW HD
 http://localdblagent.club:8080/Carlos1/Carlos1/2605
 #EXTINF:-1 tvg-name="" tvg-logo="",WWE
