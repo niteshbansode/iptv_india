@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sab HD" tvg-logo="",Sab HD
- http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+ http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1600836863~acl=%2f*~id=b72226de-6bda-44dc-959f-523ce14760f5~data=hdntl~hmac=d87b889552c98e7636cbfa3818b1c93e26990349be81bc21ccd1f593e3cc3ef1/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Max SD" tvg-logo="",Sony Max SD
- https://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1601206691~acl=%2f*~data=hdntl~hmac=f1457b22b0515b9edef391e74feff7e297ab1889cacba929c196434dd4324f7f/master_412.m3u8
+ http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1600836863~acl=%2f*~id=b72226de-6bda-44dc-959f-523ce14760f5~data=hdntl~hmac=d87b889552c98e7636cbfa3818b1c93e26990349be81bc21ccd1f593e3cc3ef1/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1601206691~acl=%2f*~data=hdntl~hmac=f1457b22b0515b9edef391e74feff7e297ab1889cacba929c196434dd4324f7f/master_412.m3u8
+http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1600836863~acl=%2f*~id=b72226de-6bda-44dc-959f-523ce14760f5~data=hdntl~hmac=d87b889552c98e7636cbfa3818b1c93e26990349be81bc21ccd1f593e3cc3ef1/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
  https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="Sony Yay SD" tvg-logo="",Sony Yay SD
@@ -18,7 +18,7 @@ https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=16012
 #EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
  https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="",Zee Marathi
- https://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
+ http://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
 #EXTINF:-1 tvg-name="Star Sports" tvg-logo="",Star Sports 1 HD
  http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 #EXTINF:-1 tvg-name="Sony Ten" tvg-logo="",Sony Ten 3
@@ -51,9 +51,7 @@ https://bit.ly/2OwtEn3hd
 https://rebrand.ly/SS1HTV
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
-#EXTINF:-1 tvg-name="" tvg-logo="",IPL 2020
-http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="",WILLOW HD
-http://localdblagent.club:8080/Carlos1/Carlos1/2605
+#EXTINF:-1 tvg-name="" tvg-logo="",Star Gold
+https://rebrand.ly/SG2TV
 #EXTINF:-1 tvg-name="" tvg-logo="",WWE
 http://localdblagent.club:8080/Carlos1/Carlos1/2606
