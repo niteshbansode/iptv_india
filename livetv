@@ -13,8 +13,10 @@ http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=160083
  http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
  https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema
  https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
+https://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/2020/12/24/14/46/42-05320.ts
 #EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
  https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="",Zee Marathi
