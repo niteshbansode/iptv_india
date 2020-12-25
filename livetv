@@ -36,7 +36,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
 https://bit.ly/32bsOnymAXhd
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 1
-https://live.bongobd.com/hls/Rwl1oYw3gA_G73PZsMlIMA/1608915988/ten_sports_1_low/index.m3u8
+https://live.bongobd.com/hls/Rwl1oYw3gA_G73PZsMlIMA/1608915988/ten_sports_1_low/1608912738000.ts
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 3
 https://sony247channels.akamaized.net/hls/live/2020592/TEN3SD/20201118T063022/master_2000/04039/master_2000_00138.ts
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
