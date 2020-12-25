@@ -1,34 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Sab HD" tvg-logo="",Sab HD
- http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1600836863~acl=%2f*~id=b72226de-6bda-44dc-959f-523ce14760f5~data=hdntl~hmac=d87b889552c98e7636cbfa3818b1c93e26990349be81bc21ccd1f593e3cc3ef1/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony Max SD" tvg-logo="",Sony Max SD
- http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1600836863~acl=%2f*~id=b72226de-6bda-44dc-959f-523ce14760f5~data=hdntl~hmac=d87b889552c98e7636cbfa3818b1c93e26990349be81bc21ccd1f593e3cc3ef1/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
-http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1600836863~acl=%2f*~id=b72226de-6bda-44dc-959f-523ce14760f5~data=hdntl~hmac=d87b889552c98e7636cbfa3818b1c93e26990349be81bc21ccd1f593e3cc3ef1/master_412.m3u8
-#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
- https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="", Cartoon Network
+http://zer0live.hjkm.info:11991/juno/cartoonnetworkhindi/chunks.m3u8
+#EXTINF:-1 tvg-name="Dangal" tvg-logo="",Dangal
+http://zer0live.hjkm.info:11991/neptune/dangaaltv/chunks.m3u8
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="", Discovery HD
+https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/1608911796566.ts
+#EXTINF:-1 tvg-name="Mayboli" tvg-logo="",Mayboli
+ https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/1608911897500.ts
 #EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Zee Marathi
 https://z5ams.akamaized.net/zmarathisd/tracks-v1a1/hdntl=exp=1608915153~acl=%2f*~data=hdntl~hmac=dff1416fac6ddad2b8a3c269fcb910646d91ab4234684610c13bf70af0bbc337/2020/12/24/16/52/30-06040.ts
-#EXTINF:-1 tvg-name="Sony Yay SD" tvg-logo="",Sony Yay SD
- https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1600679156~acl=%2f*~data=hdntl~hmac=411d15e7cce7358489841afaae1cc2b15436fe5b73d500a8f7ec992ce194e94d/master_412.m3u8
 #EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
  http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
  https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Zee Action
+#EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",Zee Action
 https://z5ams.akamaized.net/action/tracks-v1a1/hdntl=exp=1608914958~acl=%2f*~data=hdntl~hmac=7f8ae5c15a31d89b8915304fbcfa3329e3ae85605c0a2f468e3eefcb79d7fef0/2020/12/24/16/49/24-05120.ts
 #EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema
- https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
-https://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/2020/12/24/14/46/42-05320.ts
+https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
  https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="",Zee Marathi
  http://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
-#EXTINF:-1 tvg-name="Star Sports" tvg-logo="",Star Sports 1 HD
- http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
-#EXTINF:-1 tvg-name="Sony Ten" tvg-logo="",Sony Ten 3
- http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
  #EXTINF:-1 tvg-name="" tvg-logo="Abp Majha",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/20201224T150329/master_764/00009/master_764_00438.ts
  #EXTINF:-1 tvg-name="IBM Lokmat" tvg-logo="",IBM Lokmat
@@ -39,28 +31,18 @@ https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 http://66.northerniptv.ca:8000/live/george/george123/201.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="",Star Gold HD
 http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="",Star Gold FHD
-https://rebrand.ly/SGHDTV
 #EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
 https://bit.ly/32bsOnymAXhd
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX 2
-https://bit.ly/30dsoNYmaX2
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 1
-https://sony247channels.akamaized.net/linear/hls/pb/event/4_pnLi2QTe6bRGvvahRbfg/stream/f25dbb91-cbd8-4792-8147-90e910d22c60:SIN2/variant/311109a4b8f2f00e1bfea5c0f1d658b8/bandwidth/hdntl=exp=1608957838~acl=%2f*~id=894a9026-d861-4bb0-9e40-17be70fe7406~data=hdntl~hmac=2416ab1694b11041d7b994f1b3118b24319b3fdddd98c6728e3ed67bf0aecb4d/2692800.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="", SONY TEN 2
-https://sony247channels.akamaized.net/linear/hls/pb/event/nspQRqO5RmC06VmlPrTwkQ/stream/ae29b9af-acf2-4f6c-a98c-cf47b09107d7:SIN/variant/e66b8917ff075895a3895df0d36d9e7e/bandwidth/hdntl=exp=1608958344~acl=%2f*~id=c911a739-e5c6-4d61-817d-c3a7e19728d7~data=hdntl~hmac=600fdeb5bff54032fd62d0d2acfb53cacb7e5fdc2caa88333f6ea95d3810fe14/2692800.m3u8
+https://live.bongobd.com/hls/Rwl1oYw3gA_G73PZsMlIMA/1608915988/ten_sports_1_low/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 3
 https://sony247channels.akamaized.net/hls/live/2020592/TEN3SD/20201118T063022/master_2000/04039/master_2000_00138.ts
-#EXTINF:-1 tvg-name="" tvg-logo="",Star Sport 1 Hindi
-https://rebrand.ly/SS1HTV
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
 #EXTINF:-1 tvg-name="" tvg-logo="",Star Gold
 https://rebrand.ly/SG2TV
-#EXTINF:-1 tvg-name="" tvg-logo="",WWE
-http://localdblagent.club:8080/Carlos1/Carlos1/2606
 #EXTINF:-1 tvg-name="" tvg-logo="", Star Pravah
 http://zer0live.hjkm.info:11991/vesta/starparvah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMCAyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9bWVkdzE3SkJ5Zy95TTdCUmUxNUZydz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-name="" tvg-logo="", Zee 24 Taas
