@@ -42,7 +42,7 @@ https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/master.m3u8?hdnea=
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="",Sony Sab HD
-https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1608993988~exp=1608994288~acl=*~id=d3e2541b-d593-4213-86cc-4c0d9b2bef1f~hmac=475b97121a61fcde361c1824fbe3121ee444bbb6747a43d574aee730f9cb1b20&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/af143982-c4d0-4a03-8867-593f4d393192:SIN2/master.m3u8
+https://sony247channels.akamaized.net/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/cc704390-5920-4a18-bd9c-615eefd4e0c4:SIN/variant/76e0b9b0cbcf4a271e84ee299779bbfd/bandwidth/hdntl=exp=1609081806~acl=%2f*~id=7961bc8e-1b4e-4cda-adb8-fa6940b8524f~data=hdntl~hmac=26d64369d4a153ecdc1d24acf7619131fb434ebf543e000de3766537b1843235/1799600.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="", Star Pravah
 http://zer0live.hjkm.info:11991/vesta/starparvah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMCAyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9bWVkdzE3SkJ5Zy95TTdCUmUxNUZydz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-name="" tvg-logo="", Zee 24 Taas
