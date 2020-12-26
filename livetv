@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sony Set" tvg-logo="", Sony Set
-https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8
+https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/d3f05549-348a-4ef8-8ce3-ce1e680e45af:SIN2/variant/a49c924dba7b5fb82eaa85d8e4a4647a/bandwidth/hdntl=exp=1609081609~acl=%2f*~id=d7bd41f3-225f-4498-8de4-c24f2df85d9d~data=hdntl~hmac=f531ba626e1f53f5241001576ca79199b799350772d6f4e462c45fdf4e87fd94/208208.m3u8
 #EXTINF:-1 tvg-name="Dangal" tvg-logo="",Dangal
 http://zer0live.hjkm.info:11991/neptune/dangaaltv/chunks.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="", Discovery HD
