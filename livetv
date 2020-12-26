@@ -35,14 +35,14 @@ http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
 https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/7d4f55c4-238a-4f68-98e2-b0a438a557fd:SIN/variant/252ef1bc3358fd3b57280b3484c06dba/bandwidth/hdntl=exp=1609049259~acl=%2f*~id=731c1ef2-1919-4819-a90d-a0628ff390c2~data=hdntl~hmac=b329d8a4b778dc4596d26ffa4788e541a275f65a85bde20ce520961112fcb0b0/4571600.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 1 HD
+#EXTINF:-1 tvg-name="Sony Ten 1 HD" tvg-logo="",SONY TEN 1 HD
 https://sony247channels.akamaized.net/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/974d51d9-d8e4-4b56-b5c2-f47abb613743:SIN/variant/0c411d21206c6b09876d756a49b0d72f/bandwidth/hdntl=exp=1609053561~acl=%2f*~id=e7362246-7600-49d5-8018-02916241b70e~data=hdntl~hmac=a9300febe15d3e768c8698ff4c4fe3ded0a0af2029b5614165bfec10194273d9/4571600.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY TEN 3
-https://sony247channels.akamaized.net/hls/live/2020592/TEN3SD/20201118T063022/master_2000/04039/master_2000_00138.ts
+#EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",SONY TEN 3 HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/5b0aa8ef-f3b6-40f3-ad93-f9222e01e820:SIN2/variant/f1167763b27b29d6a486f20789d4e579/bandwidth/hdntl=exp=1609053659~acl=%2f*~id=df8e4b9f-1b26-4b1c-841f-2de6afdd0549~data=hdntl~hmac=8d3523f6cb8c8fc3aff164e83a85e11d67c07dadf86f54cd6e28c78f938ee9a8/4571600.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
-#EXTINF:-1 tvg-name="" tvg-logo="",Star Gold
-https://rebrand.ly/SG2TV
+#EXTINF:-1 tvg-name="Sony Sab HD" tvg-logo="",Sab HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/7305af44-bf4e-48a0-b6e4-ca85412ee1a2:SIN2/variant/8bce18731c52fc5752e485f4debbcf3f/bandwidth/hdntl=exp=1609053726~acl=%2f*~id=266eaf0a-a20d-4ad0-891f-6e92162e53b9~data=hdntl~hmac=1334c8b534adcfc66837e9f7cc49a1a422967647336895b2f618777901e82336/4571600.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="", Star Pravah
 http://zer0live.hjkm.info:11991/vesta/starparvah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMCAyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9bWVkdzE3SkJ5Zy95TTdCUmUxNUZydz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-name="" tvg-logo="", Zee 24 Taas
