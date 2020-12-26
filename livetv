@@ -19,8 +19,8 @@ https://z5ams.akamaized.net/action/tracks-v1a1/hdntl=exp=1608914958~acl=%2f*~dat
 https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
  https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Marathi" tvg-logo="",Zee Marathi
- http://z5ams.akamaized.net/zmarathisd/tracks-v4a1/exp=1597688434~acl=%2f*~data=hdntl~hmac=26b577320abc0dc7154159daab04b3532b7c6964dca42acf3c79735b15820189/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
+ https://sony247channels.akamaized.net/linear/hls/pb/event/-_w3Jbq3QoW-mFCM2YIzxA/stream/8a735795-fbbb-475c-a35f-03bdfac4e9fa:SIN2/variant/1fc422cda052ec910fed64864670576d/bandwidth/hdntl=exp=1609053843~acl=%2f*~id=ea58cd39-e9b2-4d82-97ee-6708da84ec6a~data=hdntl~hmac=cb4a1a41dcf1f562e36fb33a98db7754c19638724ed024d49dde116c34942325/208208.m3u8
  #EXTINF:-1 tvg-name="" tvg-logo="Abp Majha",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/20201224T150329/master_764/00009/master_764_00438.ts
  #EXTINF:-1 tvg-name="IBM Lokmat" tvg-logo="",IBM Lokmat
