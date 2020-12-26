@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="", Cartoon Network
-http://zer0live.hjkm.info:11991/juno/cartoonnetworkhindi/chunks.m3u8
+#EXTINF:-1 tvg-name="Sony Set" tvg-logo="", Sony Set
+https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1608994053~exp=1608994353~acl=*~id=e8d88c2f-2f28-4a75-9aa9-ec2a9178fdbc~hmac=86bf529b720becbdfb776e8d9cbd427780f83a189f62d93f6b4c21310db85345&originpath=/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/b18f136f-6e16-4ea0-a7fe-77a93e5b6436:SIN/master.m3u8
 #EXTINF:-1 tvg-name="Dangal" tvg-logo="",Dangal
 http://zer0live.hjkm.info:11991/neptune/dangaaltv/chunks.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="", Discovery HD
@@ -36,13 +36,13 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/ind
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
 https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1608993686~exp=1608993986~acl=*~id=386dab03-7740-4c0c-908a-a2dbf8163cee~hmac=9ab9ffcfebdc0f46e1a9ece1a80b6b71bc9a8accc7f352f2859ead8f5cbfbb6c&originpath=/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/43d33f06-5b99-48f7-acb6-193dcab3a749:SIN2/master.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1 HD" tvg-logo="",SONY TEN 1 HD
-https://sony247channels.akamaized.net/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/974d51d9-d8e4-4b56-b5c2-f47abb613743:SIN/variant/0c411d21206c6b09876d756a49b0d72f/bandwidth/hdntl=exp=1609053561~acl=%2f*~id=e7362246-7600-49d5-8018-02916241b70e~data=hdntl~hmac=a9300febe15d3e768c8698ff4c4fe3ded0a0af2029b5614165bfec10194273d9/4571600.m3u8
+https://sony247channels.akamaized.net/hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1608993861~exp=1608994161~acl=*~id=6c770927-18e8-460c-a57d-155b026125d9~hmac=af68e1a8e2aab71366ddf7a9f258de1c579182cbd41e4b031f6abee4726e912b&originpath=/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/17ffb5e8-57b3-484c-82cd-0f5cfbddf3cc:SIN/master.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",SONY TEN 3 HD
-https://sony247channels.akamaized.net/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/5b0aa8ef-f3b6-40f3-ad93-f9222e01e820:SIN2/variant/f1167763b27b29d6a486f20789d4e579/bandwidth/hdntl=exp=1609053659~acl=%2f*~id=df8e4b9f-1b26-4b1c-841f-2de6afdd0549~data=hdntl~hmac=8d3523f6cb8c8fc3aff164e83a85e11d67c07dadf86f54cd6e28c78f938ee9a8/4571600.m3u8
+https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/master.m3u8?hdnea=st=1608993908~exp=1608994208~acl=*~id=14fce896-f413-4c62-bb5e-b2585ce1d295~hmac=f259026cba7209de00e705a11c67a439de6d0097bd5c1b5eb773ac631a99f869&originpath=/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/db115bf1-795e-4692-b090-fccb108d8aeb:SIN/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="",Sony Sab HD
-https://sony247channels.akamaized.net/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/7305af44-bf4e-48a0-b6e4-ca85412ee1a2:SIN2/variant/8bce18731c52fc5752e485f4debbcf3f/bandwidth/hdntl=exp=1609053726~acl=%2f*~id=266eaf0a-a20d-4ad0-891f-6e92162e53b9~data=hdntl~hmac=1334c8b534adcfc66837e9f7cc49a1a422967647336895b2f618777901e82336/4571600.m3u8
+https://sony247channels.akamaized.net/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1608993988~exp=1608994288~acl=*~id=d3e2541b-d593-4213-86cc-4c0d9b2bef1f~hmac=475b97121a61fcde361c1824fbe3121ee444bbb6747a43d574aee730f9cb1b20&originpath=/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/af143982-c4d0-4a03-8867-593f4d393192:SIN2/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="", Star Pravah
 http://zer0live.hjkm.info:11991/vesta/starparvah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMCAyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9bWVkdzE3SkJ5Zy95TTdCUmUxNUZydz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1 tvg-name="" tvg-logo="", Zee 24 Taas
