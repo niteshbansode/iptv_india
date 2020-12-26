@@ -4,7 +4,7 @@ https://sony247channels.akamaized.net/hls/live/2011671/SETHD/master.m3u8?hdnea=s
 #EXTINF:-1 tvg-name="Dangal" tvg-logo="",Dangal
 http://zer0live.hjkm.info:11991/neptune/dangaaltv/chunks.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="", Discovery HD
-https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/1608911796566.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-1 tvg-name="Mayboli" tvg-logo="",Mayboli
  https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/1608911897500.ts
 #EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Zee Marathi
