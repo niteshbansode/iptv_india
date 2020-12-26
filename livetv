@@ -34,7 +34,7 @@ http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
 #EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="",B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
-https://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1608993686~exp=1608993986~acl=*~id=386dab03-7740-4c0c-908a-a2dbf8163cee~hmac=9ab9ffcfebdc0f46e1a9ece1a80b6b71bc9a8accc7f352f2859ead8f5cbfbb6c&originpath=/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/43d33f06-5b99-48f7-acb6-193dcab3a749:SIN2/master.m3u8
+https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/123edf6b-5731-46e0-8000-865e0d46fbad:SIN/variant/f4678e1fed9da2f5b6d95936029580c0/bandwidth/hdntl=exp=1609081961~acl=%2f*~id=b240fd4f-b4c0-4162-9249-2c72af0498b2~data=hdntl~hmac=741d7f7458d8741d571aa90315abc885dbf8718d2b693e90acacb7db1bfac35c/2692800.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 1 HD" tvg-logo="",SONY TEN 1 HD
 https://sony247channels.akamaized.net/hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1608993861~exp=1608994161~acl=*~id=6c770927-18e8-460c-a57d-155b026125d9~hmac=af68e1a8e2aab71366ddf7a9f258de1c579182cbd41e4b031f6abee4726e912b&originpath=/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/17ffb5e8-57b3-484c-82cd-0f5cfbddf3cc:SIN/master.m3u8
 #EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",SONY TEN 3 HD
