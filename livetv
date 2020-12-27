@@ -5,8 +5,8 @@
 
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="", Discovery HD
 
-#EXTINF:-1 tvg-name="Mayboli" tvg-logo="",Mayboli
-
+#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/e8764b89-bbb5-4926-a5f2-7c49d2d4ec84:SIN/variant/252ef1bc3358fd3b57280b3484c06dba/bandwidth/hdntl=exp=1609174613~acl=%2f*~id=dc58023e-86fd-4b2d-b998-66efd5fc8af6~data=hdntl~hmac=b1e415bc20e41cf8357a9ce1f0cb6c3ed180c3adfa190895fa34ca5c045cd704/4571600.m3u8
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="",Zee Action
 http://z5amshls.akamaized.net/action/playlist.m3u8
 #EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
