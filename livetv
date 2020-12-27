@@ -1,24 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sony Set" tvg-logo="", Sony Set
-https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/d3f05549-348a-4ef8-8ce3-ce1e680e45af:SIN2/variant/a49c924dba7b5fb82eaa85d8e4a4647a/bandwidth/hdntl=exp=1609081609~acl=%2f*~id=d7bd41f3-225f-4498-8de4-c24f2df85d9d~data=hdntl~hmac=f531ba626e1f53f5241001576ca79199b799350772d6f4e462c45fdf4e87fd94/208208.m3u8
+
 #EXTINF:-1 tvg-name="Dangal" tvg-logo="",Dangal
-http://zer0live.hjkm.info:11991/neptune/dangaaltv/chunks.m3u8
+
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="", Discovery HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+
 #EXTINF:-1 tvg-name="Mayboli" tvg-logo="",Mayboli
- https://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/1608911897500.ts
-#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Zee Marathi
-https://z5ams.akamaized.net/zmarathisd/tracks-v1a1/hdntl=exp=1608915153~acl=%2f*~data=hdntl~hmac=dff1416fac6ddad2b8a3c269fcb910646d91ab4234684610c13bf70af0bbc337/2020/12/24/16/52/30-06040.ts
+
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="",Zee Action
+http://z5amshls.akamaized.net/action/playlist.m3u8
 #EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
  http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
  https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",Zee Action
-https://z5ams.akamaized.net/action/tracks-v1a1/hdntl=exp=1608914958~acl=%2f*~data=hdntl~hmac=7f8ae5c15a31d89b8915304fbcfa3329e3ae85605c0a2f468e3eefcb79d7fef0/2020/12/24/16/49/24-05120.ts
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema
-https://z5amshls.akamaized.net/zcinemahd/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
+#EXTINF:-1 tvg-name="& Picture" tvg-logo="",& Picture
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="",Zee Cinema
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Talkies HD" tvg-logo="",Zee Talkies HD
  https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
+http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
  https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=st=1608994310~exp=1608994610~acl=*~id=5677656e-51d9-4b6f-be01-17116e606a3c~hmac=f112eab3e79761c42d63cf2453873b93fa35bc9e6dce2c2d1be8bdbf1f53537a&originpath=/linear/hls/pb/event/-_w3Jbq3QoW-mFCM2YIzxA/stream/1d4d9f10-8222-4975-8a4b-e88db5d32670:SIN2/master.m3u8
  #EXTINF:-1 tvg-name="" tvg-logo="Abp Majha",ABP Majha
@@ -35,10 +39,10 @@ http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
 https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/123edf6b-5731-46e0-8000-865e0d46fbad:SIN/variant/f4678e1fed9da2f5b6d95936029580c0/bandwidth/hdntl=exp=1609081961~acl=%2f*~id=b240fd4f-b4c0-4162-9249-2c72af0498b2~data=hdntl~hmac=741d7f7458d8741d571aa90315abc885dbf8718d2b693e90acacb7db1bfac35c/2692800.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 1 HD" tvg-logo="",SONY TEN 1 HD
-https://sony247channels.akamaized.net/hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1608993861~exp=1608994161~acl=*~id=6c770927-18e8-460c-a57d-155b026125d9~hmac=af68e1a8e2aab71366ddf7a9f258de1c579182cbd41e4b031f6abee4726e912b&originpath=/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/17ffb5e8-57b3-484c-82cd-0f5cfbddf3cc:SIN/master.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 3 HD" tvg-logo="",SONY TEN 3 HD
-https://sony247channels.akamaized.net/hls/live/2020591/TEN3HD/master.m3u8?hdnea=st=1608993908~exp=1608994208~acl=*~id=14fce896-f413-4c62-bb5e-b2585ce1d295~hmac=f259026cba7209de00e705a11c67a439de6d0097bd5c1b5eb773ac631a99f869&originpath=/linear/hls/pb/event/nmQFuHURTYGQBNdUG-2Qdw/stream/db115bf1-795e-4692-b090-fccb108d8aeb:SIN/master.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
 https://rebrand.ly/UTVATV
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="",Sony Sab HD
