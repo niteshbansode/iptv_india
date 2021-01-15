@@ -9,6 +9,8 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="",Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max" tvg-logo="",Sony Max
+https://bit.ly/32bsOnymAXhd
 #EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
 https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/12c004da-672e-4692-ab03-edef63cd68d6:SIN/variant/79c5c3f6c0953234f2e40fd674fbd2f5/bandwidth/hdntl=exp=1610810975~acl=%2f*~id=43ab47ee-bd2b-46d9-91a5-dec528a0356c~data=hdntl~hmac=fd8b29974db5cbef5b17e8b003ba7f72e6564aef4018becc4de017c50799e0d0/208208.m3u8
 #EXTINF:-1 tvg-name="Zee Action" tvg-logo="",Zee Action
