@@ -6,7 +6,7 @@ http://z5amshls.akamaized.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-name="Music India" tvg-logo="",Music India
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="",Discovery HD
-https://streamitv.multitvsolution.in/idvo/discoveryhindi_540p/index.m3u8
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="",Animal Planet HD
 https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max" tvg-logo="",Sony Max
