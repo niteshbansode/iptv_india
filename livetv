@@ -1,59 +1,174 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Sony Set" tvg-logo="",Sony Set
-https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/e230627d-a0fc-47d9-abeb-83993235e637:SIN/variant/eb410dcdf1381105c4deb73b10f1e001/bandwidth/hdntl=exp=1609174951~acl=%2f*~id=572f1b32-6fb2-436e-9552-7f94a79d26f3~data=hdntl~hmac=4dca09f7f480ce670c8abe3ef41252da15b3dba8935692457d3c7f1cb4ae4f47/4571600.m3u8
-#EXTINF:-1 tvg-name="Zee Classic" tvg-logo="",Zee Classic
-http://z5amshls.akamaized.net/classic/playlist.m3u8
-#EXTINF:-1 tvg-name="Music India" tvg-logo="",Music India
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="",Discovery HD
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="",Animal Planet HD
-https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
-#EXTINF:-1 tvg-name="Sony Max" tvg-logo="",Sony Max
-https://bit.ly/32bsOnymAXhd
-#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
-https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/12c004da-672e-4692-ab03-edef63cd68d6:SIN/variant/79c5c3f6c0953234f2e40fd674fbd2f5/bandwidth/hdntl=exp=1610810975~acl=%2f*~id=43ab47ee-bd2b-46d9-91a5-dec528a0356c~data=hdntl~hmac=fd8b29974db5cbef5b17e8b003ba7f72e6564aef4018becc4de017c50799e0d0/208208.m3u8
-#EXTINF:-1 tvg-name="Zee Action" tvg-logo="",Zee Action
-http://z5amshls.akamaized.net/action/playlist.m3u8
-#EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
- http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
-#EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
- https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
-#EXTINF:-1 tvg-name="& Picture" tvg-logo="",& Picture
-http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
-http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="",Zee Cinema
-http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Talkies HD" tvg-logo="",Zee Talkies HD
- https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
-http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
- https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=st=1608994310~exp=1608994610~acl=*~id=5677656e-51d9-4b6f-be01-17116e606a3c~hmac=f112eab3e79761c42d63cf2453873b93fa35bc9e6dce2c2d1be8bdbf1f53537a&originpath=/linear/hls/pb/event/-_w3Jbq3QoW-mFCM2YIzxA/stream/1d4d9f10-8222-4975-8a4b-e88db5d32670:SIN2/master.m3u8
- #EXTINF:-1 tvg-name="" tvg-logo="Abp Majha",ABP Majha
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/20201224T150329/master_764/00009/master_764_00438.ts
- #EXTINF:-1 tvg-name="IBM Lokmat" tvg-logo="",IBM Lokmat
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_4_av-p.m3u8
-#EXTINF:-1 tvg-name="SAAM TV" tvg-logo="",SAAM TV
-https://live.wmncdn.net/saam/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="Star Sports" tvg-logo="",Star Sports
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
-#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="",Star Gold HD
-http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
-#EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="",B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
-https://bit.ly/32bsOnymAXhd
-#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="",SONY TEN 1
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="",SONY TEN 3
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
-https://rebrand.ly/UTVATV
-#EXTINF:-1 tvg-name="Sony Sab" tvg-logo="",Sony Sab HD
-https://sony247channels.akamaized.net/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/cc704390-5920-4a18-bd9c-615eefd4e0c4:SIN/variant/76e0b9b0cbcf4a271e84ee299779bbfd/bandwidth/hdntl=exp=1609081806~acl=%2f*~id=7961bc8e-1b4e-4cda-adb8-fa6940b8524f~data=hdntl~hmac=26d64369d4a153ecdc1d24acf7619131fb434ebf543e000de3766537b1843235/1799600.m3u8
-#EXTINF:-1 tvg-name="" tvg-logo="", Star Pravah
-http://zer0live.hjkm.info:11991/vesta/starparvah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMCAyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9bWVkdzE3SkJ5Zy95TTdCUmUxNUZydz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1 tvg-name="" tvg-logo="", Zee 24 Taas
-https://z5ams.akamaized.net/24taas/tracks-v1a1/hdntl=exp=1608999531~acl=%2f*~data=hdntl~hmac=07b612371419c100c4d871ca9d140f6ea096f55d2fde24a4eab63afed137a9c7/2020/12/25/16/19/03-06239.ts
+group,Channels
+Pictures.in,IN: &Pictures HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83369
+9XJhakaas.in,IN: 9X Jhakaas,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83370
+ext,IN: 9X MUSIC,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83371
+9XTashan.in,IN: 9X Tashan,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83372
+9XM.in,IN: 9XM,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83373
+AsianetPlus.in,IN: AsiaNet Plus,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83374
+ext,IN: ABP NEWS,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83375
+AsianetMovies.in,IN: Asianet Movies,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83376
+AsianetNews.in,IN: Asianet News,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83377
+ext,IN: ASIANET TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83378
+ext,IN: BINDAS PLAY,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83379
+B4UMovies.in,IN: B4U Movies,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83380
+Asianet.in,IN: AsiaNet,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83381
+ext,IN: AOne Music Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83382
+ext,IN: ChakDE TV Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83383
+ext,IN: ChakDE,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83384
+AajTak.in,IN: AAJ TAK,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83385
+ext,IN: Chardikla Time TV Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83386
+ext,IN: Dhoom Music Bangla,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83387
+ext,IN: DD Bangla,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83388
+ext,IN: Desi Channel Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83389
+ext,IN: DD (Punjabi),http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83390
+ext,IN: DD Indian,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83391
+DDNews.in,IN: DD News,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83392
+ext,IN: CNBC NEWS TV18,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83393
+GeminiMovies.in,IN: Gemini Movies,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83394
+E24.in,IN: E24,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83395
+ext,IN: ET NOW,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83396
+ext,IN: NDTV GoodTimes,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83397
+FoodFood.in,IN: Food Food,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83398
+ext,IN: Gemini Comedy,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83399
+ext,IN: Global Sanjh TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83400
+ext,IN: AOne Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83401
+JayaMovie.in,IN: Jaya Movies,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83402
+ext,IN: India Today,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83403
+JayaTv.in,IN: Jaya TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83404
+IndiaTV.in,IN: India TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83405
+StarJalsha.in,IN: Star Jalsha,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83406
+ext,IN: MH1 Shradha,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83407
+ext,IN: Manorama News,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83408
+TenAction.in,IN: SONY TEN 2 HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83409
+ext,IN: Sony YaY Kids,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83410
+ext,IN: Sudarshan News,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83411
+SunTvHD.in,IN: SUN TV HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83412
+ext,IN: MH1 Music,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83413
+ext,IN: Sangat TV Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83414
+StarPravah.in,IN: Star Pravah,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83415
+SonyTVHD.in,IN: Sony TV HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83416
+SonyESPN.in,IN: Sony ESPN,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83417
+StarSports4.in,IN: Star Sports 4,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83418
+StarSports3.in,IN: Star Sports 3,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83419
+StarSports2.in,IN: Star Sports 2,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83420
+StarSports1.in,IN: Star Sports 1,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83421
+StarMoviesHD.in,IN: Star Movies HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83422
+ext,IN: Suvarna,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83423
+ext,IN: MH1 SHARDDHA Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83424
+ext,IN: PTC Chak DE Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83425
+PTCChakDe.in,IN: PTC Chakde,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83426
+ext,IN: PTC Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83427
+RajMusix.in,IN: RAJ Musix,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83428
+ext,IN: Puthiya Thalaimurai,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83429
+ext,IN: PTC News Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83430
+ext,IN-UK: Raj Digital Plus,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83431
+ext,IN: Raj News,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83432
+ext,IN-UK: Raj TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83433
+RajTv.in,IN: RAJ TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83434
+ext,IN: Santhora TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83435
+NDTVIndia.in,IN: NDTV India,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83436
+ext,IN: Manoranjan TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83437
+MoviesOK.in,IN: Movies OK,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83438
+ext,IN-UK: NDTV 24x7,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83439
+MTV.in,IN: MTV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83440
+MusicIndia.in,IN: Music India,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83441
+SunMusic.in,IN: SUN Music,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83442
+ext,IN: Living Foodz 2,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83443
+ext,IN: Star Jalsa Bangla,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83444
+ext,IN: TEN 1 HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83445
+ext,IN: TEN Golf HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83446
+ext,IN: Ten Sports HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83447
+ext,IN: Ten 1 FH,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83448
+ext,IN: Ten 1 Sport,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83449
+ext,IN: Ten 2 HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83450
+ext,IN: TEN/OSN CRICKET,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83451
+ext,IN: TV UK Bangla,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83452
+UTVMovies.in,IN: UTV Movies,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83453
+ext,IN: UTV Movies International,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83454
+Bindass.in,IN: UTV Bindass,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83455
+ext,IN: WILLOW HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83456
+Zing.in,IN: Zing,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83457
+ZeeAction.in,IN: Zee Action,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83458
+ZeeBusiness.in,IN: Zee Business SD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83459
+ext,IN: ZeeNews,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83460
+ZeeClassic.in,IN: Zee Classic,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83461
+ZeeCinema.in,IN: Zee Cinema,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83462
+Zindagi.in,IN: Zindagi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83463
+Zoom.in,IN: Zoom,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83464
+ext,IN: Zee Cinema Inter,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83465
+ext,IN: Zee ETC,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83466
+ZeeNews.in,IN: Zee News,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83467
+ext,IN: Zee Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83468
+ZEETV.in,IN: Zee TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83469
+ZeeStudio.in,IN: Zee Studio,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83470
+ext,IN: Zee Tamil,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83471
+ZeeStudioHD.in,IN: Zee Studio HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83472
+ext,IN: MH1 News Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83473
+ZeeBangla.in,IN: Zee Bangla,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83474
+ext,IN: ZEE BOLLYWOOD HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83475
+ZeeBusiness.in,IN: Zee Business,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83476
+ZeeCinema.in,IN: ZEE CINEMA HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83477
+ext,IN: Zee Classic IN,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83478
+ext,IN: ZEE ETC Bollywood IN,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83479
+ext,IN: Zee Foodz,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83480
+ext,IN: Zee Punjabi IN,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83481
+ZeeSmile.in,IN: Zee Smile,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83482
+ZeeTalkies.in,IN: Zee Talkies,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83483
+ext,IN: Zoom IN,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83484
+ext,IN: Kairali People,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83485
+StarVijay.in,IN: Star Vijay,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83486
+SonySix.in,IN: Sony Six,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83487
+TravelXP.in,IN: Travel xp FHD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83488
+ext,IN: & Flix HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83489
+ext,IN: & TV HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83490
+9XJalwa.in,IN: 9X Jalwa,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83491
+ext,IN: ABP Anada,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83492
+ext,IN: Animal Planet HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83493
+ext,IN: Ary Digital,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83494
+BigMagic.in,IN: Big Magic,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83495
+ext,IN: Chithiram TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83496
+Colors.in,IN: COLORS TV HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83497
+ext,IN: Dabangg,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83498
+ext,IN: Desi Channel,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83499
+DiscoveryChannel.in,IN: Discovery Channel,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83500
+ext,IN: Discovery Kids Tamil,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83501
+ext,IN: Colors Gujrati,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83502
+ext,IN: Desi Plus HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83503
+DiscoveryTurbo.in,IN: Discovery Turbo,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83504
+DiscoveryScience.in,IN: Discovery Science,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83505
+DDSports.in,IN: DSport,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83506
+ext,IN: Enterr 10,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83507
+ext,IN: ETC Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83508
+GeminiTv.in,IN: Gemini TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83509
+HBO.in,IN: HBO,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83510
+ext,IN: Housefull Action,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83511
+IBN7.in,IN: IBN 7,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83512
+ext,IN: Kannada Colors UK,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83513
+KiranTv.in,IN: Kiran TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83514
+LifeOkHD.in,IN: Life OK HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83515
+MaaGold.in,IN: Maa Gold,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83516
+ext,IN: Masti TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83517
+News24.in,IN: News 24,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83518
+NickJunior.in,IN: Nick Jr,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83519
+ext,IN: PBN Music Punjabi,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83520
+PolimerTv.in,IN: Polimer TV,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83521
+RajDigitalPlus.in,IN: RAJ Digital Plus,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83522
+ext,IN: Sangat UK,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83523
+SonyMAX.in,IN: Sony Max HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83524
+SonyMAX.in,IN: Sony MAX,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83525
+SonyMix.in,IN: Sony MIX,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83526
+SonyPIX.in,IN: Sony Pix,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83527
+ext,IN: Sony Sab HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83528
+ext,IN: Sony WAH,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83529
+ext,IN: Sony YAY,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83530
+StarGoldHD.in,IN: Star Gold HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83531
+StarGold.in,IN: Star Gold,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83532
+StarPlusHD.in,IN: Star Plus HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83533
+ext,IN: Star Plus HD US,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83534
+StarPlus.in,IN: Star Plus,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83535
+ext,IN: Steel Bird Music HD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83536
+TarangMusic.in,IN: Tarang Music,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83537
+TimesNow.in,IN: Times Now,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83538
+ext,IN: Willow Cricket,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83539
+ext,IN: Zee Anmol,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83540
+ZeeCinema.in,IN: Zee Cinema FHD,http://udashboard.vip:8080/rOja4nLVT9/895PFQbkwb/83541
