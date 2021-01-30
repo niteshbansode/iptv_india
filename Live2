@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Sony Set" tvg-logo="",Sony Set
+https://sony247channels.akamaized.net/linear/hls/pb/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/e230627d-a0fc-47d9-abeb-83993235e637:SIN/variant/eb410dcdf1381105c4deb73b10f1e001/bandwidth/hdntl=exp=1609174951~acl=%2f*~id=572f1b32-6fb2-436e-9552-7f94a79d26f3~data=hdntl~hmac=4dca09f7f480ce670c8abe3ef41252da15b3dba8935692457d3c7f1cb4ae4f47/4571600.m3u8
+#EXTINF:-1 tvg-name="Zee Classic" tvg-logo="",Zee Classic
+http://z5amshls.akamaized.net/classic/playlist.m3u8
+#EXTINF:-1 tvg-name="Music India" tvg-logo="",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="",Discovery HD
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="",Animal Planet HD
+https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max" tvg-logo="",Sony Max
+https://bit.ly/32bsOnymAXhd
+#EXTINF:-1 tvg-name="Sony Max HD" tvg-logo="",Sony Max HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/Qyqz40bSQriqSuAC7R8_Fw/stream/12c004da-672e-4692-ab03-edef63cd68d6:SIN/variant/79c5c3f6c0953234f2e40fd674fbd2f5/bandwidth/hdntl=exp=1610810975~acl=%2f*~id=43ab47ee-bd2b-46d9-91a5-dec528a0356c~data=hdntl~hmac=fd8b29974db5cbef5b17e8b003ba7f72e6564aef4018becc4de017c50799e0d0/208208.m3u8
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="",Zee Action
+http://z5amshls.akamaized.net/action/playlist.m3u8
+#EXTINF:-1 tvg-name="&TV" tvg-logo="",&TV
+ http://62.210.82.206:25461/t0SjvWVyuy/w1gwbR6N3J/34089?play_token=es6yenZUYv&token=QhVcUhcJRggXAVBfAVcGVVFQUlJQB1ZQVVEDVVUAV1UBBQYGAAIGB1NGGURBEkJRAFtpWgVEXlBRVA1YSkAXElxFa1oAQ14QBlABUgFQEhhDQl9eBEReUlBdAlRWVFpXChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcte0NKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-name="& Picture HD" tvg-logo="",& Picture HD
+ https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
+#EXTINF:-1 tvg-name="& Picture" tvg-logo="",& Picture
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="",Zee Cinema HD
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="",Zee Cinema
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Talkies HD" tvg-logo="",Zee Talkies HD
+ https://z5amshls.akamaized.net/ztalkieshd/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Zee Talkies" tvg-logo="",Zee Talkies
+http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Marathi" tvg-logo="",Sony Marathi
+ https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=st=1608994310~exp=1608994610~acl=*~id=5677656e-51d9-4b6f-be01-17116e606a3c~hmac=f112eab3e79761c42d63cf2453873b93fa35bc9e6dce2c2d1be8bdbf1f53537a&originpath=/linear/hls/pb/event/-_w3Jbq3QoW-mFCM2YIzxA/stream/1d4d9f10-8222-4975-8a4b-e88db5d32670:SIN2/master.m3u8
+ #EXTINF:-1 tvg-name="" tvg-logo="Abp Majha",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/20201224T150329/master_764/00009/master_764_00438.ts
+ #EXTINF:-1 tvg-name="IBM Lokmat" tvg-logo="",IBM Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_4_av-p.m3u8
+#EXTINF:-1 tvg-name="SAAM TV" tvg-logo="",SAAM TV
+https://live.wmncdn.net/saam/live.stream/chunks.m3u8
+#EXTINF:-1 tvg-name="Star Sports" tvg-logo="",Star Sports
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="",Star Gold HD
+http://185.8.176.227:25461/live/strtester/ap8s9ndf709a8/56.m3u8
+#EXTINF:-1 tvg-name="B4U KADAK" tvg-logo="",B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",SONY MAX HD
+https://bit.ly/32bsOnymAXhd
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="",SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="",SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="",UTV Action
+https://rebrand.ly/UTVATV
+#EXTINF:-1 tvg-name="Sony Sab" tvg-logo="",Sony Sab HD
+https://sony247channels.akamaized.net/linear/hls/pb/event/UI4QFJ_uRk6aLxIcADqa_A/stream/cc704390-5920-4a18-bd9c-615eefd4e0c4:SIN/variant/76e0b9b0cbcf4a271e84ee299779bbfd/bandwidth/hdntl=exp=1609081806~acl=%2f*~id=7961bc8e-1b4e-4cda-adb8-fa6940b8524f~data=hdntl~hmac=26d64369d4a153ecdc1d24acf7619131fb434ebf543e000de3766537b1843235/1799600.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="", Star Pravah
+http://zer0live.hjkm.info:11991/vesta/starparvah/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAyMCAyOjI0OjQ2IFBNJmhhc2hfdmFsdWU9bWVkdzE3SkJ5Zy95TTdCUmUxNUZydz09JnZhbGlkbWludXRlcz0y
+#EXTINF:-1 tvg-name="" tvg-logo="", Zee 24 Taas
+https://z5ams.akamaized.net/24taas/tracks-v1a1/hdntl=exp=1608999531~acl=%2f*~data=hdntl~hmac=07b612371419c100c4d871ca9d140f6ea096f55d2fde24a4eab63afed137a9c7/2020/12/25/16/19/03-06239.ts
